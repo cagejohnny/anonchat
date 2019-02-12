@@ -34,18 +34,19 @@ If you want to run `anonchat` bot on the background, you will probably want to u
 
 ```markdown
 # Help
-1. -help - Get commands list with descriptions.
-2. -ping - Check if AnonChat is online and can answer.
-3. -rules - Common usage rules.
+1. !help - Get commands list with descriptions.
+2. !ping - Check if AnonChat is online and can answer.
+3. !rules - Common usage rules.
 
 # Common
-1. -list - Returns list of anonymous channels available on server to join.
-2. -join - Join selected anonymous channel from list of available.
-3. -leave - Leave the anonymous channel.
+1. !list - Returns list of anonymous channels available on server to join.
+2. !join - Join selected anonymous channel from list of available.
+3. !leave - Leave the anonymous channel.
 
 # Administration
-1. -init - Must be executed in a channel which need to setup as Anonymous channel.
+1. !init - Must be executed in a channel which need to setup as Anonymous channel.
 ```
+Where symbol `!` is current prefix which can be changed in `.env` file to any prefix you wish.
 
 # License
 [MIT License](LICENSE)
