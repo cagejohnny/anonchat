@@ -18,13 +18,15 @@ Rename `.env.sample` to `.env` then open that file in [text editor](https://note
 
 Other values are optional to change.
 
-**Remember without .env file with proper required values bot will not be able to work**
+**Remember without .env file with proper required values bot will not be able to work.**
 
 # Run
 To run `anonchat` bot you will need to:
 1. Navigate to `root` directory
 2. Run command-line terminal in `root` directory
 3. In terminal run `node anonchat`
+
+**Remember if you close terminal bot will stop to work.**
 
 If you want to run `anonchat` bot on the background, you will probably want to use [PM2](https://www.npmjs.com/package/pm2)
 
