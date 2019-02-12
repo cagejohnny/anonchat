@@ -14,4 +14,5 @@ anonchannel2
 This is how is possible to join `anonchannel1` on server and send `test message`. All messages will be also translated back in PM from the channel.
 
 **Administrators**
+
 Before anyone will be able to join any channel it must be registered as anonymous by administrator or user with permissions to manage text channels. To do so, you need to run `-init` command in the channel that you want to register as anonymous.
