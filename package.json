@@ -1,0 +1,29 @@
+{
+  "name": "anonchat",
+  "version": "1.0.0",
+  "description": "Anonymous chat bot for Discord",
+  "main": "anonchat.js",
+  "scripts": {
+    "test": "standard & eslint **"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagejohnny/anonchat"
+  },
+  "author": {
+    "name": "Johnny Cage",
+    "email": "cagejohnny858@gmail.com",
+    "url": "https://cagejohnny.github.io"
+  },
+  "homepage": "https://cagejohnny.github.io/cagejohnny",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0",
+    "identicon.js": "^2.3.3",
+    "jssha": "^2.3.1",
+    "randomcolor": "^0.5.3",
+    "shortid": "^2.2.14",
+    "sqlite": "^3.0.0"
+  }
+}
