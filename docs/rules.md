@@ -11,7 +11,7 @@ anonchannel2
 2. [prefix]join anonchannel1
 3. test message
 ```
-This is how is possible to join `anonchannel1` on server and send `test message`. All messages will be also translated back in PM from the channel.
+This is how is possible to join `anonchannel1` on server and send `test message`. All messages will be also translated back to PM from the channel.
 
 **Administrators**
 
